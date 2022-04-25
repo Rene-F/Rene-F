@@ -2,7 +2,8 @@
 - 👀 I’m interested in Web & Game Design and Development.
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures at:
 -     https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
-- 💞️ I’m looking to collaborate on developing games and apps.
+- 👨‍💻 I’m looking to collaborate on developing games and apps.
+-     Open to collaborate on anything else that touches design and development.
 - 📑 My certifications are over at LinkedIn.
 - 📫 How to reach me:
 -     LinkedIn: https://www.linkedin.com/in/reneffreelancer/
