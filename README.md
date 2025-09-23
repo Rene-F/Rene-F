@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @Rene-F
-- 👀 I’m interested in Web & Game Design and Development.
+- 👀 I’m interested in Design and Development.
 - 🌱 I’m currently learning JavaScript Algorithms and Data Structures at:
 -     https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/
 - 👨‍💻 I’m looking to collaborate on developing games and apps.
 -     Open to collaborate on anything else that touches design and development.
 - 🤹‍♂️ Skills:
--     UX/UI Design, HTML, CSS, JS, Web Development, Responsive Design, Game Development, Game Design.
+-     UX/UI Design, HTML, CSS, JS, Web Development and Responsive Design, Game Development and Design.
 
 - 📑 My certifications are over at LinkedIn.
 - 📫 How to reach me:
